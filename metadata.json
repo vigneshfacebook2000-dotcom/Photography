@@ -1,0 +1,6 @@
+{
+  "name": "ChromaLens Portfolio",
+  "description": "An interactive, highly vibrant photography and videography portfolio featuring live cinematic color grading, rich galleries with SVG histograms, and a personalized shoot estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
